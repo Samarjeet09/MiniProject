@@ -56,6 +56,10 @@
 ---
 
 ## **13.Video to Audio Conversion**
+---
+## **7.Audio to Text Mini Project**
+---
+
 
 ### Converted Video Files to Audio files
 ---
