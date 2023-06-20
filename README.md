@@ -58,9 +58,15 @@
 ## **7.Audio to Text Mini Project**
 
 ---
+## **8.Plagiarism Checker**
 
+Check similarity between text (.txt) documents using cosine similarity 
 
+In order to compute the simlilarity between on two text documents, the textual raw data is transformed into vectors ➡ **arrays of numbers** and then from that we are going to use a basic knowledge vector to compute the the similarity between them.
 
+![Output image](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-08%3A%20Plagiarism%20checker/output.png )
+
+---
 
 ## **13.Video to Audio Conversion**
 
