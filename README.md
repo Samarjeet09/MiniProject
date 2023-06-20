@@ -68,6 +68,19 @@ In order to compute the simlilarity between on two text documents, the textual r
 
 ---
 
+## **9.Qr code Generator**
+### Link to my linkedin
+
+![Qr](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-09%3A%20QR%20Code%20Generator/linkedin.png)
+
+---
+## **10.Google Image Downloader**
+### used Selenium to download Google images 
+---
+## **11.Image to Text (OCR)**
+----
+## **12.Tweets Search/Download**
+---
 ## **13.Video to Audio Conversion**
 
 ### Converted Video Files to Audio files
