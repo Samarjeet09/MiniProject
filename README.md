@@ -114,9 +114,22 @@ In order to compute the simlilarity between on two text documents, the textual r
 ---
 ## 15.**Convert 100 images to Grey Scale (b/w) using OpenCV**
 
+### Converted to Greyscale
+### input:
+![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15%3A%20%22Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%22%20using%20OpenCV/computer_10%20(1).jpg)
+
+### output:
+![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15%3A%20%22Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%22%20using%20OpenCV/computer_10.jpg)
 
 ---
 ## 16.**Resize 100 images to 50% (smaller) using OpenCV**
+
+### Resized the images to 50%
+### input:
+![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16%3A%20%22Resize%20the%20100%20images%20to%2050%25%20(smaller)%22%20using%20OpenCV/car_16.jpg)
+
+### ouptput:
+![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16%3A%20%22Resize%20the%20100%20images%20to%2050%25%20(smaller)%22%20using%20OpenCV/resized_car_16.jpg)
 
 
 ---
