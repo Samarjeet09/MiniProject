@@ -116,20 +116,20 @@ In order to compute the simlilarity between on two text documents, the textual r
 
 ### Converted to Greyscale
 ### input:
-![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15%3A%20%22Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%22%20using%20OpenCV/computer_10%20(1).jpg)
+![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15-Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%EF%80%A2%20using%20OpenCV/computer_10%20(1).jpg)
 
 ### output:
-![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15%3A%20%22Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%22%20using%20OpenCV/computer_10.jpg)
+![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-15-Convert%20100%20images%20to%20Grey%20Scale%20(b/w)%EF%80%A2%20using%20OpenCV/computer_10.jpg)
 
 ---
 ## 16.**Resize 100 images to 50% (smaller) using OpenCV**
 
 ### Resized the images to 50%
 ### input:
-![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16%3A%20%22Resize%20the%20100%20images%20to%2050%25%20(smaller)%22%20using%20OpenCV/car_16.jpg)
+![input](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16-Resize%20the%20100%20images%20to%2050%25%20(smaller)%20using%20OpenCV/car_16.jpg)
 
 ### ouptput:
-![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16%3A%20%22Resize%20the%20100%20images%20to%2050%25%20(smaller)%22%20using%20OpenCV/resized_car_16.jpg)
+![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-16-Resize%20the%20100%20images%20to%2050%25%20(smaller)%20using%20OpenCV/resized_car_16.jpg)
 
 
 ---
@@ -140,4 +140,29 @@ In order to compute the simlilarity between on two text documents, the textual r
 ## 18.**Resize the Colored Video to 50% (smaller) using OpenCV**
 
 
+---
+
+##20. **Color Flipper**
+### Change the background of the website by clicking the button with a random colour.
+
+Preview: https://samarjeet09.github.io/Mini-Project-20-Color-Flipper-Deployment/
+---
+## 21.**Clock**
+### A Clock that displays the Indian Standard Time (IST)(GMT+5:30)
+
+Preview: https://samarjeet09.github.io/Mini-Project-21-Clock-Deployment/
+---
+## 22. **Counter**
+### One can use this to count anything, which comes with increasing, decreasing and resetting the count features.
+
+Preview: https://samarjeet09.github.io/Mini-Project-22-Counter-Deployment/
+---
+## 23. **Hamburger Menu**
+### A Responsive Navbar with a hamburger menu for the mobile view.
+Preview: https://samarjeet09.github.io/Mini-Project-23-Hamburger-Menu-Deployment/index.html
+---
+## 24. **FAQs**
+### Implementation of FAQs section's functionality
+
+Preview: https://samarjeet09.github.io/Mini-Project-24-FAQs-Deployment/
 ---
