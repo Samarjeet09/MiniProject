@@ -64,14 +64,14 @@ Check similarity between text (.txt) documents using cosine similarity
 
 In order to compute the simlilarity between on two text documents, the textual raw data is transformed into vectors ➡ **arrays of numbers** and then from that we are going to use a basic knowledge vector to compute the the similarity between them.
 
-![Output image](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-08%3A%20Plagiarism%20checker/output.png )
+![Output image](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-08-Plagiarism%20checker/output.png)
 
 ---
 
 ## **9.Qr code Generator**
-### Link to my linkedin
+### Link to my LinkedIn
 
-![Qr](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-09%3A%20QR%20Code%20Generator/linkedin.png)
+![Qr](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-09-QR%20Code%20Generator/linkedin.png)
 
 ---
 ## **10.Google Image Downloader**
@@ -81,10 +81,10 @@ In order to compute the simlilarity between on two text documents, the textual r
 
 ### Input
 
-![input img](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-11%3A%20Image%20to%20Text%20(OCR)/testOcr.png)
+![input img](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-11-Image%20to%20Text%20(OCR)/testOcr.png)
 
 ### output
-![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-11%3A%20Image%20to%20Text%20(OCR)/outputOcr.png)
+![output](https://github.com/Samarjeet09/MiniProjects/blob/main/Mini%20Project-11-Image%20to%20Text%20(OCR)/outputOcr.png)
 
 ----
 ## **12.Tweets Search/Download**
@@ -142,7 +142,7 @@ In order to compute the simlilarity between on two text documents, the textual r
 
 ---
 
-##20. **Color Flipper**
+## 20. **Color Flipper**
 ### Change the background of the website by clicking the button with a random colour.
 
 Preview: https://samarjeet09.github.io/Mini-Project-20-Color-Flipper-Deployment/
